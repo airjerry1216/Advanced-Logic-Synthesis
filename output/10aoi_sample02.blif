@@ -1,0 +1,39 @@
+.model sample02
+.inputs f e d c b a 
+.outputs i h g 
+.names q665 c y665 i
+100 1
+110 1
+010 1
+011 1
+111 1
+101 1
+001 1
+.names a d h
+00 1
+.names u665 g0 g
+11 1
+.names a c q665
+00 1
+10 1
+01 1
+.names f e d y665
+000 1
+.names a c a d u665
+0000 1
+1000 1
+0110 1
+1110 1
+1010 1
+0010 1
+0011 1
+1011 1
+1111 1
+0111 1
+0101 1
+1101 1
+1001 1
+0001 1
+.names b a c g0
+111 1
+
