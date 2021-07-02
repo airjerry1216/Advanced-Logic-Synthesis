@@ -4,9 +4,9 @@
 
 **How to Compile**  
     In this directory, enter the following command:   
-    ```
+    `
     $ make  
-    ```   
+    ` 
     It will generate the executable file "als" in this directory.  
     ```
 python main.py -a hardnet68 --pretrained -e [imagenet-folder with train and val folders]
