@@ -1,5 +1,5 @@
 # Advanced Logic Synthesis
-NTHU 10920CS613200
+## NTHU 10920CS613200 高等邏輯合成
 
 
 --How to Compile
