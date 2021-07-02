@@ -7,7 +7,6 @@
     ```
     $ make  
     ```
-    
     It will generate the executable file "als" in this directory.
     If you want to remove it and all .o files, please enter the following command:
     ```
