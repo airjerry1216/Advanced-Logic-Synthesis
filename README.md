@@ -7,7 +7,10 @@
     ```
     $ make  
     ```   
-    It will generate the executable file "als" in this directory.
+    It will generate the executable file "als" in this directory.  
+    ```
+python main.py -a hardnet68 --pretrained -e [imagenet-folder with train and val folders]
+```
     If you want to remove it and all .o files, please enter the following command:
     ```
     $ make clean
