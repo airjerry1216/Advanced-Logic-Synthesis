@@ -2,7 +2,7 @@
 ## NTHU 10920CS613200 高等邏輯合成
 
 
---How to Compile
+**How to Compile**
     In this directory, enter the following command:   
     $ make  
     It will generate the executable file "als" in this directory.
