@@ -3,7 +3,7 @@
 
 
 **How to Compile**  
-    In this directory, enter the following command:   
+In this directory, enter the following command:   
 ```
 $ make  
 ```
