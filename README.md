@@ -13,6 +13,6 @@
 --How to Run
     In this directory, enter the following command:   
     Usage: ./<exe> -k 3  <intput.blif file>  <output.blif file>  
-    
     e.g.:
+    
     $ ./als -k 3 ../../blif/blif/10aoi_sample01.blif ./output_sample01.blif
