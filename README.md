@@ -13,7 +13,7 @@
     
     $ make clean
 
---How to Run
+**How to Run**  
     In this directory, enter the following command:   
     Usage: ./<exe> -k 3  <intput.blif file>  <output.blif file>  
     e.g.:
