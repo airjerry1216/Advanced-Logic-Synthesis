@@ -1,4 +1,4 @@
-# NTHU 10920CS613200 高等邏輯合成
+# NTHU 10920CS6132 高等邏輯合成
 A C++ implementation of Technology Mapping.   
 
 
