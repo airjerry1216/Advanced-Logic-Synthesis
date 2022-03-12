@@ -1,5 +1,5 @@
 # NTHU 10920CS613200 高等邏輯合成
-C++ Technology Mapping implementation.   
+A C++ implementation of Technology Mapping.   
 
 
 #### How to Compile
