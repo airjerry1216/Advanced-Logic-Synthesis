@@ -1,5 +1,4 @@
-# Advanced Logic Synthesis
-### NTHU 10920CS613200 高等邏輯合成
+# NTHU 10920CS613200 高等邏輯合成
 C++ Technology Mapping implementation.   
 
 
